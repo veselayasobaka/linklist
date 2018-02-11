@@ -140,7 +140,7 @@ public:
 int main()
 {
     linklist<int> l;
-    l.addlink(18);
+    l.addlink(1);
     l.addlink(20);
     l.addlink(24);
     l.addlink(27);
