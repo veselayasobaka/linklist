@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+/*This programm shows main principles of linked list for different types of data. */
 template <class T>
 class linklist                //template of linked list
 {
