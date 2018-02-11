@@ -141,6 +141,7 @@ int main()
 {
     linklist<int> l;
     l.addlink(1);
+    l.addlink(16);
     l.addlink(20);
     l.addlink(24);
     l.addlink(27);
