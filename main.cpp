@@ -2,7 +2,7 @@
 using namespace std;
 
 template <class T>
-class linklist
+class linklist                //template of linked list
 {
 private:
     struct link
