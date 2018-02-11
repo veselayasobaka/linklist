@@ -1,13 +1,13 @@
 #include <iostream>
 using namespace std;
 
-
 template <class T>
 class linklist
 {
 private:
     struct link
     {
+						//internal structure with data
         T data;
         link *next;
         ~link() noexcept
